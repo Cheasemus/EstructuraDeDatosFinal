@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Mérida Yucatan</string>
+    <string name="ten">%1$d/10</string>
+
+    <string name="guessDestination">¡Adivina el destino!</string>
+    <string name="merida">Mérida Yucatán</string>
+    <string name="play">Comenzar</string>
+
+    <string name="results">Puntuación</string>
+
+    <!-- Playa progreso -->
+    <string name="progresoName">Playa Puerto Progreso</string>
+    <string name="progresoAddress">97320 Centro, C. 84 164C, Centro, 97320 Progreso, Yuc.</string>
+    <string name="progresoDescription">Progreso es una ciudad puerto de la península de Yucatán en México. Es una parada de cruceros común, los que atracan en su icónico muelle largo. El Malecón es un paseo en la costa del océano y está bordeado de playas y restaurantes con techos de paja. El Faro de Puerto Progreso, construido en 1893, se encuentra activo. La ciudad es una vía de acceso a los sitios arqueológicos mayas del interior, como Chichén Itzá, Uxmal y Dzibilchaltún.</string>
+
+    <string name="progresoQuestion">Su principal atracción es su icónico muelle largo y es una vía de acceso a los sitios arqueológicos mayas del interior</string>
+    <string name="progresoAnswer1">Playa Puerto Progreso</string>
+    <string name="progresoAnswer2">Playa Celestum</string>
+    <string name="progresoAnswer3">Chicxulub</string>
+    <string name="progresoAnswer4">Playa Chuburná</string>
+
+    <!-- Playa Sisal -->
+    <string name="sisalName">Playa Sisal</string>
+    <string name="sisalAddress">C. 40 2, 97356 Sisal, Yuc.</string>
+    <string name="sisalDescription">Sisal es un lugar tranquilo y pequeño, es un puerto de pescadores donde sus habitantes son amables y hospitalarios, haciendo de este lugar ideal para apartarse y descansar del estrés diario. El paso de la historia aun se conservan en sus edificios en el centro del puerto, como la Aduana Marítima, el Fuerte de Santiago “El Castillo” y el Faro, La casa de la emperatriz Carlota Amalia y los cañones ubicados en el parque central que son testigos de la defensa contra los piratas en la antigüedad.Su playa de arena blanca y agua color verde, son ideales para descansar, tomar el sol, nadar o tomar un paseo en lancha. En su muelle muchos pobladores y apasionados de la pesca buscan un lugar para practicar esta actividad, además que a sus lados se encuentran colocadas sillas para ver y disfrutar del atardecer como en ningún otro lugar.</string>
+
+    <string name="sisalQuestion">Aquí se encuentran ubicados algunos edificios como:  la Aduana Marítima, el Fuerte de Santiago “El Castillo” y el Faro</string>
+    <string name="sisalAnswer1">Playa Sisal</string>
+    <string name="sisalAnswer2">Dzilam Bravo</string>
+    <string name="sisalAnswer3">Playa San Crisanto</string>
+    <string name="sisalAnswer4">Santa Clara</string>
+
+    <!-- Playa Chelem-->
+    <string name="chelemName">Playa Chelem</string>
+    <string name="chelemAddress">97336 Chelem, Yuc.</string>
+    <string name="chelemDescription">Chelem es un puerto pesquero de estado de Yucatán en México. Ubicado en el litoral norte de la Península de Yucatán, al poniente del puerto de Progreso, que ha sido transformado en un lugar preponderantemente turístico gracias a sus playas, a su ría y a la vecindad con Yukalpetén, el puerto de abrigo que sirve a las embarcaciones de los pescadores de la región. Su proximidad al puerto de Progreso hace que la localidad sea muy visitada, particularmente durante los meses del verano.</string>
+
+    <string name="chelemQuestion">Es la playa más cercana a Puerto Progreso</string>
+    <string name="chelemAnswer1">Playa Chelem</string>
+    <string name="chelemAnswer2">Telchac Puerto</string>
+    <string name="chelemAnswer3">Playa Chuburná</string>
+    <string name="chelemAnswer4">Uaymitun</string>
+
+    <!-- Cenote Ik Kil-->
+    <string name="cenoteIkKilName">Cenote Ik Kil</string>
+    <string name="cenoteIkKilAddress">Yucatán</string>
+    <string name="cenoteIkKilDescription">Ik Kil es un cenote a las afueras de Pisté en el municipio de Tinúm, Yucatán , México. Cenote Ik Kil está cerca de las ruinas mayas de Chichén Itzá , en la carretera a Valladolid . Ik Kil fue considerado sagrado por los mayas que usaron el sitio como un lugar para el sacrificio humano a su dios de la lluvia, Chaac . Los arqueólogos y espeleólogos encontraron huesos y piezas de joyería en las aguas profundas de este cenote.</string>
+
+    <string name="cenoteIkKilQuestion">Fue considerado sagrado por los mayas que usaron el sitio como un lugar para el sacrificio humano a su dios de la lluvia, Chaac</string>
+    <string name="cenoteIkKilAnswer1">Cenote Ik Kil</string>
+    <string name="cenoteIkKilAnswer2">Cenote Dos Ojos</string>
+    <string name="cenoteIkKilAnswer3">Cenote Carwash</string>
+    <string name="cenoteIkKilAnswer4">Chicxulub</string>
+
+    <!-- Cenote Xlacah-->
+    <string name="cenoteXlacahName">Cenote Xlacah</string>
+    <string name="cenoteXlacahAddress">Zona Arqueológica de Dzibilchaltún Dzibilchaltún, 97305 Mérida, Yuc.</string>
+    <string name="cenoteXlacahDescription">El cenote Xlacah aún conserva la belleza de sus transparentes aguas y su riqueza de flora y fauna. Los vestigios encontrados en el cenote –entre ellos vasijas, huesos tallados y objetos de madera– ofrecen valiosa información sobre los mayas antiguos que habitaron en las cercanías del cenote.</string>
+
+    <string name="cenoteXlacahQuestion">Tiene vestigios que ofrecen valiosa información sobre los mayas antiguos que habitaron en las cercanías de este cenote</string>
+    <string name="cenoteXlacahAnswer1">Cenote Xlacah</string>
+    <string name="cenoteXlacahAnswer2">Cenote Calavera</string>
+    <string name="cenoteXlacahAnswer3">Cenote Jardín Del Edén</string>
+    <string name="cenoteXlacahAnswer4">Gran Cenote</string>
+
+    <!-- Chichén Itzá.-->
+    <string name="chichenItzaName">Chichén Itzá</string>
+    <string name="chichenItzaAddress">Yucatán</string>
+    <string name="chichenItzaDescription">Chichén Itzá es un complejo de ruinas mayas famoso a nivel mundial en la península de Yucatán de México. Una enorme pirámide escalonada, conocida como El Castillo, domina los 6.5 km cuadrados de la ciudad antigua, que prosperó desde aproximadamente el año 600 d.C. hasta el siglo XIII. Los tallados gráficos en piedra sobreviven en estructuras como el campo de pelota, el Templo de los Guerreros y el Muro de las Calaveras. En las noches, espectáculos de luces y sonidos iluminan la sofisticada geometría de las construcciones.</string>
+
+    <string name="chichenItzaQuestion">Es una de las 7 maravillas del mundo</string>
+    <string name="chichenItzaAnswer1">Chichén Itzá</string>
+    <string name="chichenItzaAnswer2">Machu Picchu</string>
+    <string name="chichenItzaAnswer3">Taj Mahal</string>
+    <string name="chichenItzaAnswer4">Petra</string>
+
+    <!-- Ek Balam-->
+    <string name="EkBalamName">Ek Balam</string>
+    <string name="EkBalamAddress">Ekbalam, Yuc.</string>
+    <string name="EkBalamDescription">Ek Balam es un sitio arqueológico maya en Yucatán, México. Está localizado a 30 km al norte de la ciudad de Valladolid, a 2 km del poblado maya actual de Ek Balam. A juzgar por el tamaño y calidad de sus construcciones, Ek Balam fue una entidad política de gran riqueza y prosperidad, de aproximadamente 12 a 18 mil habitantes.</string>
+
+    <string name="EkBalamQuestion">Fue una entidad política de gran riqueza y prosperidad, de aproximadamente 12 a 18 mil habitantes.</string>
+    <string name="EkBalamAnswer1">Ek Balam</string>
+    <string name="EkBalamAnswer2">Edzaná</string>
+    <string name="EkBalamAnswer3">Cobá</string>
+    <string name="EkBalamAnswer4">Tulum</string>
+
+    <!-- Uxmal y Kabah-->
+    <string name="uxmalName">Uxmal y Kabah</string>
+    <string name="uxmalAddress">Uxmal, Yuc.</string>
+    <string name="uxmalDescription">Es una antigua ciudad maya del periodo clásico. Está localizado en el municipio de Santa Elena en el estado de Yucatán, México. En la actualidad es uno de los más importantes yacimientos arqueológicos de la cultura maya, junto con los de Chichén Itzá y Tikal. Se ubica en la llamada zona Puuc y es la ciudad más representativa de este estilo arquitectónico. Uxmal es considerada Patrimonio de la Humanidad por la UNESCO desde 1996..</string>
+
+    <string name="uxmalQuestion">En la actualidad es uno de los más importantes yacimientos arqueológicos de la cultura maya, junto con los de Chichén Itzá y Tikal</string>
+    <string name="uxmalAnswer1">Uxmal y Kabah</string>
+    <string name="uxmalAnswer2">Palenque</string>
+    <string name="uxmalAnswer3">Comalco</string>
+    <string name="uxmalAnswer4">Tulum</string>
+
+    <!-- Las coloradas -->
+    <string name="coloradasName">Las coloradas</string>
+    <string name="coloradasAddress">Las Son, 83430 San Luis Río Colorado, Yuc.</string>
+    <string name="coloradasDescription">Las Coloradas es un puerto ubicado en el litoral norte de la península de Yucatán perteneciente al municipio de Río Lagartos en el estado de Yucatán. Es parte de un pueblo pesquero, con un poco más de 1000 habitantes. En su mayoría se dedican a la  industria salinera, pues este sitio  es reconocido también por ser un conjunto de pozas que conforman una de las plantas procesadoras de sal más importantes del país. Asimismo, esta zona corresponde a uno de los sitios más estables económicamente, debido a la exportación de sal. Las Coloradas es un puerto ubicado en el litoral norte de la península de Yucatán perteneciente al municipio de Río Lagartos en el estado de Yucatán. Es parte de un pueblo pesquero, con un poco más de 1000 habitantes. En su mayoría se dedican a la  industria salinera, pues este sitio  es reconocido también por ser un conjunto de pozas que conforman una de las plantas procesadoras de sal más importantes del país. Asimismo, esta zona corresponde a uno de los sitios más estables económicamente, debido a la exportación de sal.</string>
+
+    <string name="coloradasQuestion">Este sitio  es reconocido también por ser un conjunto de pozas que conforman una de las plantas procesadoras de sal más importantes del país</string>
+    <string name="coloradasAnswer1">Las coloradas</string>
+    <string name="coloradasAnswer2">Playa Celestum</string>
+    <string name="coloradasAnswer3">Dzilam Bravo</string>
+    <string name="coloradasAnswer4">Uaymitun</string>
+
+    <!-- Las Celestun -->
+    <string name="CelestunName">Celestún</string>
+    <string name="CelestunAddress">97367 Celestún, Yuc.</string>
+    <string name="CelestunDescription">Celestún se localiza en el extremo poniente del estado de Yucatán, casi en sus límites con el estado de Campeche y en las costas del golfo de México. Alrededor del pueblo, se encuentra la Reserva de la Biósfera Ría Celestún en la que se han desarrollado petenes, que se extiende por Yucatán y Campeche, tiene unos 600 km² y es internacionalmente reconocido por ser el lugar de refugio invernal de miles de flamencos y de muchas otras especies de aves. El ecosistema de Celestún es único debido a la combinación del agua dulce proveniente de la Ría Celestún y el agua salada del golfo de México. Los flamencos de Celestún son de un color rosado intenso, debido a la concentración de caroteno en el agua; además, la reserva alberga varias especies de aves, entre los cuales están el pelícano blanco y el pelícano café.</string>
+
+    <string name="CelestunQuestion">Los flamencos que habitan en ella son uno de los atractivos mayores del lugar</string>
+    <string name="CelestunAnswer1">Celestún</string>
+    <string name="CelestunAnswer2">Playa Chuburná</string>
+    <string name="CelestunAnswer3">Playa Sisal</string>
+    <string name="CelestunAnswer4">Playa Puerto Progreso</string>
+
+
+</resources>
