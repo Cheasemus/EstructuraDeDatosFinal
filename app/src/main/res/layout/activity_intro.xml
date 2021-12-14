@@ -96,7 +96,7 @@
             app:maxImageSize="40dp"
             app:rippleColor="@color/colorPrimaryDark"
             app:srcCompat="@drawable/ic_play"
-            tools:ignore="ContentDescription" />
+            tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
     </LinearLayout>
 
     <androidx.constraintlayout.widget.Guideline

@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewHolde
         intent.putExtra("name", locationData.getName());
         intent.putExtra("address", locationData.getAddress());
         intent.putExtra("description",locationData.getDescription());
-        intent.putExtra("image", locationData.getImage());
+        intent.putExtra("image", locationData.getImageV());
         startActivity(intent);
     }
 }

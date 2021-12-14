@@ -47,6 +47,7 @@
         app:layout_constraintTop_toBottomOf="@id/textView6"
         app:lottie_autoPlay="false"
         app:lottie_loop="false"
+
         app:lottie_rawRes="@raw/well_done" />
 
     <ImageButton
@@ -54,8 +55,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:onClick="exit"
         android:background="?attr/selectableItemBackgroundBorderless"
+        android:onClick="exit"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -64,5 +65,5 @@
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/ic_close"
         app:tint="@color/colorPrimaryDark"
-        tools:ignore="ContentDescription" />
+        tools:ignore="ContentDescription,SpeakableTextPresentCheck,TouchTargetSizeCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>

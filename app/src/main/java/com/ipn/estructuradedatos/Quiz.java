@@ -75,7 +75,7 @@ public class Quiz {
         quizList.add(new Questions(3, context.getString(R.string.chelemQuestion), answers3, R.drawable.chelem));
         quizList.add(new Questions(4, context.getString(R.string.cenoteIkKilQuestion), answers4, R.drawable.cenote_sagrado_ik_kil));
         quizList.add(new Questions(5, context.getString(R.string.cenoteXlacahQuestion), answers5, R.drawable.cenote_xlacah));
-        quizList.add(new Questions(6, context.getString(R.string.chichenItzaQuestion), answers6, R.drawable.chichenitza));
+        quizList.add(new Questions(6, context.getString(R.string.chichenItzaQuestion), answers6, R.drawable.chichenhori));
         quizList.add(new Questions(7, context.getString(R.string.EkBalamQuestion), answers7, R.drawable.ekbalam));
         quizList.add(new Questions(8, context.getString(R.string.uxmalQuestion), answers8, R.drawable.uxmal));
         quizList.add(new Questions(9, context.getString(R.string.coloradasQuestion), answers9, R.drawable.lascoloradas));

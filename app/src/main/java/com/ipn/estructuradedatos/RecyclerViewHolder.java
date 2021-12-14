@@ -54,7 +54,7 @@ public class RecyclerViewHolder extends RecyclerView.Adapter<RecyclerViewHolder.
     {
         holder.textView.setText(locationDataList.get(holder.getAdapterPosition()).getName()); //Titulo
         holder.textViewAddress.setText(locationDataList.get(holder.getAdapterPosition()).getAddress()); //Direccion
-        holder.imageView.setImageResource(locationDataList.get(holder.getAdapterPosition()).getImage()); //Imagen
+        holder.imageView.setImageResource(locationDataList.get(holder.getAdapterPosition()).getImageH()); //Imagen
         holder.cardView.setOnClickListener(v -> onClick.click(locationDataList.get(holder.getAdapterPosition()))); //CardView
     }
 

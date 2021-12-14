@@ -22,7 +22,6 @@ public class InfoActivity extends AppCompatActivity
         ImageView imageView = findViewById(R.id.imageViewBackground);
         TextView textView = findViewById(R.id.textViewTitle);
         TextView textViewInfo = findViewById(R.id.textViewInfo);
-        textViewInfo.setMovementMethod(new ScrollingMovementMethod());
 
         textView.setText(intent.getExtras().get("name").toString());
         textViewInfo.setText(intent.getExtras().get("description").toString());
